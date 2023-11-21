@@ -1,0 +1,12 @@
+.display{
+  display: flex;
+  justify-content: space-between 5px;
+  background-color: palevioletred;
+}
+
+.App
+{
+  display: flex;
+  justify-content: space-between;
+  background-color: lightblue;
+}
